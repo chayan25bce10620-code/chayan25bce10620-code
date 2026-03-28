@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Chayan 👋
+
+- Btech CSE Core | VIT Bhopal | 2025-2029
+- Currently Learning: C++, Low-latency Code
+- Interested in: Finance, HFT, Creative Writing
+- Reach me at: mukherjeechayan2007@gmail.com
 
 <!--
 **chayan25bce10620-code/chayan25bce10620-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
